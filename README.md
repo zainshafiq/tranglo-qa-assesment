@@ -1,18 +1,18 @@
-# Tranglo QA Assessment – Web UI & API Automation
+## Tranglo QA Assessment – Web UI & API Automation
 
 This repository contains automated test scripts for both Web UI and API layers using Playwright with TypeScript.
 
 ### 📦 Setup
-npm install
+- npm install
 
 ### ▶️ Run Tests
-npx playwright test
+- npx playwright test
 
 ### 📊 View Report
-npx playwright show-report
+- npx playwright show-report
 
 ### 🎥 Record Test (Codegen)
-npx playwright codegen
+- npx playwright codegen
 
 ### 🧪 Test Coverage
 - Web UI automation (Login and Purchase flow)
