@@ -2,23 +2,23 @@
 
 This repository contains automated test scripts for both Web UI and API layers using Playwright with TypeScript.
 
-## 📦 Setup
+### 📦 Setup
 npm install
 
-## ▶️ Run Tests
+### ▶️ Run Tests
 npx playwright test
 
-## 📊 View Report
+### 📊 View Report
 npx playwright show-report
 
-## 🎥 Record Test (Codegen)
+### 🎥 Record Test (Codegen)
 npx playwright codegen
 
-## 🧪 Test Coverage
+### 🧪 Test Coverage
 - Web UI automation (Login and Purchase flow)
 - API automation (CRUD operation)
 
-⚙️ Tech Stack
-Playwright
-TypeScript
-GitHub Actions (CI)
+### ⚙️ Tech Stack
+- Playwright
+- TypeScript
+- GitHub Actions (CI)
