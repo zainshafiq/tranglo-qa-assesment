@@ -18,7 +18,7 @@ This repository contains automated test scripts for both Web UI and API layers u
 
 ### 🧪 Test Coverage
 - Web UI automation (Login and Purchase flow)
-- API automation (CRUD operation)
+- API automation (CRUD operations)
 
 ### ⚙️ Tech Stack
 - Playwright
